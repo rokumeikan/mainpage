@@ -1,4 +1,2 @@
-# personal guide page
- 个人引导页，适用于个人网站首页：
-
-![](show-off/Xnip2021-12-29_14-33-20.jpg)
+# 鹿鸣渚——大原泉的个人主页
+相关项目地址：https://github.com/cj466/personal-guide-page
